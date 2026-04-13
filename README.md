@@ -1,2 +1,1 @@
-# my-self
-first project
+# MY PROJECT
